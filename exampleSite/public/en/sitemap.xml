@@ -87,10 +87,10 @@
     <loc>http://localhost:1313/en/terms/</loc>
     <lastmod>2024-12-23T08:16:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/archives/</loc>
+    <loc>http://localhost:1313/en/archives/</loc>
     <lastmod>2024-10-25T09:16:03+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/archives/</loc>
+    <loc>http://localhost:1313/en/categories/archives/</loc>
     <lastmod>2024-10-25T09:16:03+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/cookie/</loc>
